@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 I'm still filling out this profile, so I hope you can enjoy what little I have here thus far!
 
-### Current Project (Hobby)
+### Past Project (Hobby)
 
-My most recent hobby project is a game developed on Unity (C#) for iOS. It is a 3D battle-arena style game where the player constructs a mech and battles with it to craft upgrades and advance through a story-mode. The game is still in development and is being worked on with an artist friend from the game industry.
+A past hobby project, which ended development in February 2022, is a game developed on Unity (C#) for iOS. It is a 3D battle-arena style game where the player constructs mechs and battles with them to craft upgrades and advance through a story-mode. The game was in development with an artist friend from the game industry.
 
 [February 2022 Gameplay Video](https://www.youtube.com/watch?v=e8fIMHR2H7Y)
 
-The video linked above shows some early mechanics running on an actual device with a target 60 FPS. There is a lot more I can go into to break down the development thus far on it, but it will have to wait for a future status update 😊
+The video linked above shows some early mechanics running on an iPhone with a target 60 FPS. There is a lot more I can go into to break down the development on it up to that point, but it will have to wait for a future status update 😊
 
 ༼ つ ◕_◕ ༽つ
